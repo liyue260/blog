@@ -1,6 +1,6 @@
 ### 搭建
 
-> - **搭建教程https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html**
+> - [Gmeek快速上手](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
 > - 添加自己的头像
 > 
 > >  1. 先将头像转换成**svg**格式，好像Gmeek只支持这种格式
