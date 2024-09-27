@@ -10,5 +10,5 @@
 > > 5. Action>build Gmeek>Run workflow
 
 ### 使用tips
-
-- > [【Gmeek进阶】强调关键信息使用](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-qiang-diao-guan-jian-xin-xi-shi-yong.html)
+-  [基本撰写和格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-  [【Gmeek进阶】强调关键信息使用](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-qiang-diao-guan-jian-xin-xi-shi-yong.html)
