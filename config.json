@@ -6,6 +6,7 @@
     "startSite":"09/26/2024",
     "needComment":1,
     "faviconUrl":"https://github.com/liyue260/blog/raw/main/img/favicon.svg",                
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>" 
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 
 }
