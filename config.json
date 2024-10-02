@@ -5,6 +5,7 @@
     "GMEEK_VERSION":"last",
     "startSite":"09/26/2024",
     "needComment":1,
-    "faviconUrl":"https://github.com/liyue260/blog/raw/main/img/favicon.svg"
+    "faviconUrl":"https://github.com/liyue260/blog/raw/main/img/favicon.svg",                
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>" 
 
 }
